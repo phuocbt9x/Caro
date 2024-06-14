@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Caro.app

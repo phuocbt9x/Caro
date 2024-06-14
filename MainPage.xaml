@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Caro.MainPage"
+    xmlns:caro="clr-namespace:Caro"
+>
+    <ContentPage.Resources>
+        <caro:Board x:Key="board" />
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <Grid RowDefinitions="Auto,*" BackgroundColor="White">
+            <GraphicsView
+                x:Name="BoardView"
+                VerticalOptions="Fill"
+                HorizontalOptions="Fill"
+                Drawable="{StaticResource board}"
+                Grid.Row="1"
+            />
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
