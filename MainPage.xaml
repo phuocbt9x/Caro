@@ -4,6 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="Caro.MainPage"
     xmlns:drawable="clr-namespace:Caro"
+    xmlns:view="clr-namespace:Caro"
 >
     <ContentPage.Resources>
         <drawable:Board x:Key="board" />
@@ -17,7 +18,11 @@
                 HorizontalOptions="Fill"
                 Drawable="{StaticResource board}"
                 Grid.Row="1"
-            />
+            >
+                <GraphicsView.GestureRecognizers>
+                    <PanGestureRecognizer PanUpdated="OnPanUpdated"/>
+                </GraphicsView.GestureRecognizers>
+            </GraphicsView>
         </Grid>
     </ScrollView>
 

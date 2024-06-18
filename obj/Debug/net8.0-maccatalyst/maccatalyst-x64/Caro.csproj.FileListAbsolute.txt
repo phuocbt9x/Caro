@@ -254,9 +254,6 @@
 /Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-nativeaot.a
 /Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.a
 /Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.dylib
-/Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
 /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mauifont.inputs
 /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
@@ -302,3 +299,10 @@
 /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Caro.genruntimeconfig.cache
 /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/ref/Caro.dll
 /Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Caro.sourcelink.json
+/Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mauiimage.outputs
+/Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/thaonguyen/Documents/projects/C#/Caro/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
+/Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
+/Users/thaonguyen/Documents/projects/C#/Caro/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp
